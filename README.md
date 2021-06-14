@@ -10,6 +10,7 @@
      <img alt="CSS" src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=29a8e2" />
      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript" />
      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js" />
+     <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=green" />
      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-090909?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" />
      <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=pink" />
 </p>
