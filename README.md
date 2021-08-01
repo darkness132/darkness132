@@ -13,7 +13,7 @@
      <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-090909?style=for-the-badge&logo=Discord.js" />
      <img alt="MongoDB" src="https://img.shields.io/badge/-mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=green" />
      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-090909?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" />
-     <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=pink" />
+     <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=purple" />
 </p>
 
 <!---
